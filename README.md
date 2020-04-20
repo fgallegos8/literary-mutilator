@@ -1,2 +1,2 @@
-# litreray-mutilator
+# literary-mutilator
 literary-mutilator
